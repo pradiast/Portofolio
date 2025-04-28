@@ -59,18 +59,6 @@ const experiences = [
             "Menjadi Anggota Himpunan Mahasiswa Teknik Informatika dalam divisi sekretariat"
         ]
     },
-     {
-        company: "PROYEK ANIMASI COOKIES DENGAN BLENDER (2024)",
-        responsibilities: [
-            "Membuat animasi cookies 3D dengan aplikasi blender"
-        ]
-    },
-     {
-        company: "PROYEK BUILD A SWITCH AND ROUTER NETWROK PHYSICAL MODE DENGAN CISCO PAKET TRACER (2024)",
-        responsibilities: [
-            "Menyelesaikan step by step dalam \"build a switch and router network physical mode\" dengan cisco paket tracer"
-        ]
-     }
 ];
 
 // Current page
