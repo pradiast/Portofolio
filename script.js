@@ -70,7 +70,7 @@ const experiences = [
         responsibilities: [
             "Menyelesaikan step by step dalam "build a switch and router network physical mode" dengan cisco paket tracer"
         ]
-    }
+    },
 ];
 
 // Current page
