@@ -69,6 +69,7 @@ const experiences = [
         company: "PROYEK BUILD A SWITCH AND ROUTER NETWROK PHYSICAL MODE DENGAN CISCO PAKET TRACER (2024)",
         responsibilities: [
             "Menyelesaikan step by step dalam "build a switch and router network physical mode" dengan cisco paket tracer"
+        ]
      }
 ];
 
